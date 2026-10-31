@@ -48,8 +48,8 @@ Deploy the Portfolio.
 Upload to GitHub Pages for free hosting.
 
 ## PROGRAM
-
 ```
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -61,7 +61,7 @@ Upload to GitHub Pages for free hosting.
 <body bgcolor="#f4f4f4" text="#333333">
 
     <center>
-        <h1><font color="#0077ff">DIVYA LAKSHMI M</font></h1>
+        <h1><font color="#0077ff">DIVYA LAKSHMI M </font></h1>
         <p>Engineering Student | Programmer | ML Enthusiast</p>
     </center>
 
@@ -81,7 +81,7 @@ Upload to GitHub Pages for free hosting.
 
     <section id="home">
         <center>
-            <h1>Hello, I'm <font color="#0077ff">DIVYA LAKSHMI M</font></h1>
+            <h1>Hello, I'm <font color="#0077ff">DIVYA LAKSHMI M </font></h1>
 
             <h3>Aspiring Developer | Technology Enthusiast</h3>
 
@@ -242,17 +242,16 @@ Upload to GitHub Pages for free hosting.
 
 </body>
 </html>
-```
 
+```
 
 ## OUTPUT
 
 ![alt text](<Screenshot 2026-10-31 111352.png>)
 
-![alt text](<Screenshot 2026-10-31 111409-1.png>)
+![alt text](<Screenshot 2026-10-31 111409.png>)
 
 ![alt text](<Screenshot 2026-10-31 111426.png>)
 
 ## RESULT
-
 The program for creating Portfolio using HTML and CSS is executed successfully.
